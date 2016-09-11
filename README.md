@@ -6,3 +6,4 @@ this is a repository for repos_test.
 追加したよん♡
 
 これはリモートリポジトリから★
+ブランチ練習分１
