@@ -7,3 +7,5 @@ this is a repository for repos_test.
 
 これはリモートリポジトリから★
 マスター側をさらに更新
+
+こんどはローカルで更新
