@@ -7,3 +7,5 @@ this is a repository for repos_test.
 
 これはリモートリポジトリから★
 ブランチ練習分１
+
+ブランチに書き込んでマスターにマージしてみる
