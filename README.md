@@ -9,3 +9,5 @@ this is a repository for repos_test.
 マスター側をさらに更新
 
 こんどはローカルで更新
+
+ローカル変更その２
